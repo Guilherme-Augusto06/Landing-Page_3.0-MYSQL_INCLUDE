@@ -84,5 +84,6 @@ Para fazer login no sistema faça um banco de dados no MySQL WORKBENCH com esses
       -- -----------
       insert into Usuários(email,senha) VALUES
       ('rafaela@gmail.com',123) -- USUARIO QUE QUISER	
+      
     ```
 Certifique-se de usar essas credenciais criadas ao acessar o sistema.
