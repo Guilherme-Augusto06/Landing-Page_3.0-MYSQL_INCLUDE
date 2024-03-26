@@ -69,7 +69,7 @@ Este é um guia básico para configurar um ambiente virtual, organizar a estrutu
 ## Credenciais de Login
 
 Para fazer login no sistema faça um banco de dados no MySQL WORKBENCH com esses parâmetros:
-    ```bash
+ 
     
       create database Login;
       -- --------
